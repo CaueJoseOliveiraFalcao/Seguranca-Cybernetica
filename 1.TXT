@@ -1,0 +1,24 @@
+
+DDos = ataque de negação de serviço infectou 10% de computadores da APANET
+
+Ransomware = criptografgia dos dados pessoais do usuario , mediante a resgate financeiro por meio de critpo moedas 
+
+Botnet = Infecta dispositivos para controlalos remotamente a partir disso ele executa ataques DDos para comprometer outros alvos 
+
+CID = confidencialidade = revelar informações apenas a individuos autorizados  , intregridade = sem alteraça~da infomação  , Disponimilidade = sempre acessivel 
+
+dado = elemeto deprovido de siguinificado 
+
+Informação = e o resultado do dado com contexto e analise 
+
+
+
+Criterios de Classificação de informação 
+
+   Sensibilidade = pelo nivel de sensilidade 
+
+   Valor = Individuos podem ter interesse nessa informação mas para outros nao faz 
+
+   Requisitos legais = ordenamento juridico local 
+
+   Importancia = o qoa importante e para o funcionameto da organização 
