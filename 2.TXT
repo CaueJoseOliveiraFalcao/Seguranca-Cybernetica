@@ -1,0 +1,89 @@
+Fases do Mapeamento de redes
+
+    Hot Scan
+        Descobir quais servidores e maquinas ligada a rede
+        Ex  ping = envia um pacote de ICMP Request para uma nmaquina se ela tiver ativa
+                   ela respondera um pacote ICMP Reply 
+            nmap = faz oque o ping faz mais com mais completas com varios tipos de pacotes 
+                   e verifica as portas tambem -sn faz ele veriricar apenas portas ativas 
+            
+    Port Scan
+        Descobrir quais sao as portas TCP e UCP nos servidores
+        Ex  TCP Connect Scan = Tsta se a porta esta aberta mais lento que o nmap
+            UDP Scan = mais simples envia um pacote UPD sem dados para as portas serem 
+                       verificadas 
+            
+    Service Sacn/OS fingerprint 
+        servicos do serodr e seu sistema operacional 
+        determina quais servicos aquela porta e responsavel
+        namp -sV
+        -O Verifica o sistema operacional
+    Varredura 
+        Verifica as vunerabilidades do servidor 
+
+Tipos de Vunerabilidade
+    
+    Buffer Overflow 
+        estouro de buffer ao enviar dados para um aplicação e posvviel a manipulação
+        do comportamento do software 
+    Credenciais fracas
+
+    Ataques de dicionário
+        tentam descobir a senha do alvo testando uma lista de pssiveis senhas 
+
+    Ataques de bruteforce
+        sao testao stodas as possibilidades de digitos escolihifos
+    Vulnerabilidades 0-day ou zero-day 
+        descobirdas por atacantes
+
+Exploração das vulnerabilidades
+
+    registradores 
+        fazem parte do rpcoesador do computador usados para amazenar informações 
+        para execução de calculos nos computador
+    
+    registrador EIP
+        responsavel para idicar ao processador qual a instrução sera executada 
+    
+    Bind Shell 
+        um codigo enviado atravez de payload que abre uma porta no servivdor
+    
+    Reverse Shell   
+        faz o servidor se conectar com o atacater e abre uma porta na sua propia maquina 
+        executando um software 
+    
+
+
+Ataques de Negação de Serviço
+    
+    Dos - Denial of Service 
+        executado a partir de uma unica maquina explorando vulnerabilidades na rede para tomar 
+        determinado sistema inacessivel
+    
+    DDos - Distribbuided Denial Of Services  
+        utilizan diversas fontes como botnets pára enviar pacotes de multiplas formas 
+        
+    SYN Flood
+        envia pacotes SNY para o servirdoq que responde comSYN/ACK Porem o ATACANTE nao 
+        ENCERRA  A coneao  com os pacotes ACK para termianr  3-way handshale entao o 
+        servidor vai tentar enviar novamento os pacetes SYN/ACK date que um perildo sem 
+        respostas o processo e encerrado 
+    UDP Reflection 
+        o protocolo upd direfente do tcp nao e orientado a conexão entao nao a garantia que
+        os pacotes realmente chegaram ao destino alem de nao ter necessidade do uso do 
+        3 - way handshake 
+
+        Por esse motivo, um ataque de UDP reflection pode ser feito enviando pacotes
+        para um servidor que possua algum serviço de UDP falsificando o endereço de
+        origem. O servidor envia a resposta desse pacote para o endereço de origem
+        falso, que é o alvo do ataque de negação de serviço.
+
+Engenharia Social 
+    Phishing 
+        Campanhas de email ou mensagens de texto eviadaas a a vitima com senso de urgencia 
+        para as vitimas instalaram o software ou revelar infirações confidenciais 
+    
+    Sper phishing 
+        espeficia o basico procura empresas ou pessoas com mensagensadapatadas para 
+        ser mais convencente 
+    
