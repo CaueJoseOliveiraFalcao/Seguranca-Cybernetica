@@ -1,0 +1,21 @@
+Web Serivces = Serviso disponibilizafods que utilizam nasaplicaçõe web coo protocoalos 
+
+SOAP = Protocolo de comunicação 
+
+REST = ccONJUTNO DE PRINICOPOIS DE TRAMISSAO DE DADOS 
+
+API REST = disponibliliza um webservce na forma de REST 
+
+HTTP = conjunto de opreaçõs web como PUT,DELETE,GET E POST  jnto co um API REST 
+
+XML e JSON = PADDROES PARA REPRESENTAR OS DADOS PASSADOS PELA API REST 
+
+SPA = frameworks webq ue utilizam aplicações dapagina unica com utilização de componentes 
+        para aumentar a evelociadeda 
+
+injecõa  = quando um invadsor njeta um codigo para alterar a exeução de um serivod 
+
+injeção SQL 
+    utilização de valores literais para passar dados para o bano de dados ou procura de dados 
+    ex . SQL Query: SELECT * FROM users WHERE name='tom' and password='123456' 
+    

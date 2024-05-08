@@ -86,4 +86,93 @@ Engenharia Social
     Sper phishing 
         espeficia o basico procura empresas ou pessoas com mensagensadapatadas para 
         ser mais convencente 
+
+Tipos de malwares 
+
+    Virus 
+        codigo malcociooso que se aoto copia e consegue infectar outras maquinas 
+        se diseminado em uma rede
+    Backdoor
+        um malware que fica instalado em uma maquina e permite um acesso direto apar o atacantes
+        executar um ataque remotamente
+    Botnet 
+        varios computadores atacam um servidor por meio de um servico de negação 
+    Downloader 
+        u malware que isntala codigos malciocos na maquina 
+    Laucher 
+        inicia u codigo maliciona de forma furtiva
+    Information-stealing 
+        Rouba informacç~es encontradas na maquina 
+    Ransomware 
+        Critografa os arquivos com o objetido de fazer a vitima pagar pelos dados 
+
+Tipos de Analise 
+    Estatica basica
+        malware analisa sem ser executado 
+    Dinamica basica 
+        Executar o malware em um ambiente controlado 
+    Estatica avancada 
+        Engenhrair reversa no malware com dissasembler que mostras intruções do processador 
+    Dinamica avancada 
+        debbuger capas de executar o malware em um ambientequese tem controele dele 
+
+WI-FI Wireless Fidelity 
+    redes sem fio Formalizada no padrao IEEE 802.11
+
+    BBS Basic Service Set 
+        conjunto de estaç~çoes WIFI conectadas à rede sendo pelo menos uma dela um AP
+     
+
+Padrao IEEE 802.11  
+    rEFERESE A REELS wlan rEDELS LOCAL SEM FIO A PAERTE DE 802 rEFERESE
+    a padronização das reddes locais e o .11 a redels locais sem fio
+
+Wi-fi OPEN 
+    qualquer pessoa pode se conectar a rede ele nao tem um processo de criptografia 
+    e autenticação 
+
+    uma vunerabilidade e que o um usuario pode capturar co um adabtador de rede sem fio 
+    os dados entre o cliente e o servirdor ja que o wifi nao e criptgrafado 
+
+    pode ser WEB quando e botado e botado sem senha mais co crptigrafia 
+
+Wifi WEB 
+    WEB = forma de critografia entre o cliente e o servidor 
+
+    usa o algoritimo RC4 E MUITO SIMPLES PODE SER Qiebrada se muitos pacotes fore capturados 
+
+WIFI WEP SKA 
+    adiciona uma camada de protecao ]
+
+WIFI WPA
+    VEIO PARAR SUBISTITUIE O web COM TECNOLOGIAS MAIS MODERNAS 
+
+    usa o WPA-PSK = O CLIENTE USA O 4-WAY hANDSHAKE NESSA troca a senha da rede e passada 
+    de forma criptogradadsda , mas e possivel quebrar utilizando certas ferramentas 
+     nesse caso todos usam a mesma senha 
     
+    WPS-EAP
+        OS CLIENTEM POSSUEM SENHAS DIREFENTES PARA AUTENTICAÇÃS  
+
+wifi WPA 2 
+    UTILIXA o mesmo metodo do 1 mais unas a criptografia CCMP com fornecimento maior de se 
+    gurançã 
+
+Tipos de ataque a redes semfio 
+
+    framework aircrack-ng 
+        possui doversos sowtwares capazes de realizzar atques em redes sem fio 
+    
+    Placas de rede em modo monitor 
+        normalmente as placas utilizam o modo manager que somente se coneta 
+        e possivem entrar no modo otinor que captura divesass redes sem fio rposima 
+        monstrando infirmações rrestritas 
+    
+    WPA/WPA2 
+        capurua os dados do 4hanshake entre o ap e o cliente para tentar quebrar a crip
+        tografa 
+
+    Negação de servocp 
+        O atacante enva dados ao AP para desconectaor o cliente dessa forma o cliente 
+        vai ter que see conetar denovo no wifi ai entao o atacante interceat a senha 
+        
