@@ -1,0 +1,43 @@
+CPRITGAROIFA = disfarca nsformações
+    simetrica 
+        ususaruis se cominucam com provacidade com apenas uma chave 
+        e um tipo de criptgrafia mas rapido 
+    assimetrica 
+        sao usadads duas chaves quando for encriptado pra uma so pode ser descrtado por pela outra 
+
+
+Firewall  
+    spra um ambente perigoso de um seguro 
+
+Filtro dePacotes 
+    inspeção no conteudo do trafego 
+
+Gatways de Cirtuito 
+    operam na camada ed tranporte 
+
+VPN 
+    acesso remotoa  intranet 
+
+IP 
+    tem missao de fazer os pacetes chegem ao seu destino usando os melhores caminhos 
+
+TCP 
+    garintir a confiabilidade na comincação entreo dois hosts em uma rede IP 
+    
+    Hijackinh 
+        sequestro de sessao TCP a ameaca entra no meio de uma conicação 
+        comintenções malicionasas 
+    Negação de srvico 
+        quando nao a recursossuficiaies de controle a conexão e rejeitada 
+
+UDP 
+    muito simples destinados a servios de repostas curtas
+
+DNS 
+    estrutura goblal permitte resolicoels de dominos em Ip 
+
+Pharming  
+    criação de site cole para capturar informaçõe sensiveis
+
+HTTP 
+    TROSPORTE DE CARACETRES

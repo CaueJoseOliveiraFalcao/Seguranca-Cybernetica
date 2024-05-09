@@ -22,3 +22,17 @@ Criterios de Classificação de informação
    Requisitos legais = ordenamento juridico local 
 
    Importancia = o qoa importante e para o funcionameto da organização 
+
+Tipos de análise do risco
+   Analise quantitativa = calculo de prejuizos financeiros 
+
+   Analise quaLITATIVA = funcionarios , grupos profissonais que da as possibilidades de risco 
+
+Estimativa do impacto financeiro associado a ameaças 
+   EF = Representa estimativa em porcentagem da perda provocada po um ativo 
+
+   SLE = eXPECTATIVA DA PERDA SINGULAR CALCULADA COM BASE E APENAS UM EVENTO 
+
+   ARO = taxa de ocorrencia anual , frequancia das ocorrencias de amaeçãs 
+
+   ALE = expectativa de perda anunal  = SLE X ARO 

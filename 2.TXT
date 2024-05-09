@@ -142,7 +142,7 @@ Wifi WEB
     usa o algoritimo RC4 E MUITO SIMPLES PODE SER Qiebrada se muitos pacotes fore capturados 
 
 WIFI WEP SKA 
-    adiciona uma camada de protecao ]
+    adiciona uma camada de protecao 
 
 WIFI WPA
     VEIO PARAR SUBISTITUIE O web COM TECNOLOGIAS MAIS MODERNAS 
